@@ -1,0 +1,1 @@
+This repo contains a NativeScript take of the Todo app descripbed in [Victor Savkin's blog on managing state in Angular2 apps](http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications).
