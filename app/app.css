@@ -1,0 +1,31 @@
+﻿.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin:20;
+}
+
+.completed {
+    color: gray;
+}
+
+.selected {
+    border-color: lightblue;
+}
+
+.filter {
+    margin: 4;
+    padding: 5;    
+    border-radius: 4;
+    border-width: 2;
+}
+
+.line {
+    height: 1;
+    background-color: black;
+    vertical-align: center;
+}
+
+.todo {
+    margin: 4;
+    font-size: 18;
+}
